@@ -6,10 +6,11 @@ isBasedOnUrl: 'http://www.nature.com/nature/journal/v463/n7277/full/463026a.html
 inLanguage: null
 keywords: []
 description: "We are relatively ignorant of what our 'extended self' comprises or how it works. The human body is one of the most important ecological study sites of the coming decade. Humans depend on the microbial communities that colonize them for a surprising suite of benefits. These include: extracting energy from food, educating the immune system and protection from pathogens. Yet, despite the recent attention to this indigenous microbiota, we are relatively ignorant of what our 'extended self' comprises or how it works. "
-datePublished: '2016-05-18T03:01:11.845Z'
-dateModified: '2016-05-18T02:58:43.231Z'
+datePublished: '2016-05-18T03:02:51.627Z'
+dateModified: '2016-05-18T03:01:16.524Z'
 author: []
 title: ''
+sourcePath: _posts/2016-05-18-we-are-relatively-ignorant-of-what-our-extended-self-compr.md
 authors: []
 publisher:
   name: nature.com
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-18-we-are-relatively-ignorant-of-what-our-extended-self-compr.md
 _context: 'http://schema.org'
 _type: Article
 
@@ -38,6 +38,5 @@ The existing national and international projects to map the human microbiome are
 
 [By Microbiome   
 David A. Relman Chief of infectious diseases at Veterans Affairs Palo Alto Health Care System, Palo Alto, California. Extract from Nautre.com][0]
-
 
 [0]: http://www.nature.com/nature/journal/v463/n7277/full/463026a.html
